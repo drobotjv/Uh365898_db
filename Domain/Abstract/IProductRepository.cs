@@ -8,7 +8,7 @@ using uh365898_db.Domain.Abstract;
 
 namespace uh365898_db.Domain.Abstract
 {
-    public interface IProductRepository //абстрактный интерфейс
+    public interface IProductRepository
     {
         IQueryable<Product> Products { get; }
         void SaveProduct(Product product);// метод для сохранения результатов редактирования в админке
