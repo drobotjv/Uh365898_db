@@ -7,8 +7,7 @@ using System.Web.Mvc;
 using uh365898_db.Domain.Abstract;
 using uh365898_db.Domain.Entities;
 
-// EFProductRepository это наш класс хранилища. Он реализует интерфейс IProductRepository и использует экземпляр EFDbContext,
-// чтобы извлекать данные из базы с помощью Entity Framework
+
 namespace uh365898_db.Domain.Concrete
 {
     public class EFProductRepository : IProductRepository
