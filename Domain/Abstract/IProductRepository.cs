@@ -51,6 +51,7 @@ namespace uh365898_db.Domain.Abstract
         IQueryable<Proper> Propers { get; }
         // void SaveCategtwo(Categtwo categtwo);
         //Producer DeleteCategtwo(int categtwoID);
+        //
 
         IQueryable<Applying> Applyings { get; }
         IQueryable<Techcharacter> Techcharacters { get; }
