@@ -22,6 +22,7 @@
     <IISExpressUseClassicPipelineMode />
     <NuGetPackageImportStamp>17b6c558</NuGetPackageImportStamp>
     <UseGlobalApplicationHostFile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -621,6 +622,7 @@
     <Content Include="Content\themes\images\tw.psd" />
     <Content Include="Content\css\dataTables.responsive.scss" />
     <Content Include="Content\themes\images\Sorting icons.psd" />
+    <None Include="Properties\PublishProfiles\FTPProfile.pubxml" />
     <None Include="Properties\PublishProfiles\Uh_upr.pubxml" />
     <None Include="Properties\PublishProfiles\upr.pubxml" />
     <Content Include="Scripts\application.js" />

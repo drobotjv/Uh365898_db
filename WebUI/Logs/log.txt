@@ -318,3 +318,35 @@ ERROR 2017-10-26 01:40:36,978  2208ms ProductController      List               
 ERROR 2018-12-09 23:16:53,932  1617ms ProductController      List               - Просмотр главной странцы
 ERROR 2018-12-09 23:18:23,155 90840ms NavController          Question           - Просмотр формы Вопрос технологу
 ERROR 2018-12-09 23:18:29,915 97600ms NavController          AboutUs            - Просмотр форма Про нас
+ERROR 2020-12-04 19:18:26,176   763ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-12 20:38:03,374   702ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-14 22:08:37,040   814ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-14 22:10:21,384   749ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-14 22:22:48,858 748223ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-14 22:23:01,666 761031ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:23:01,815 761180ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:23:16,417 775781ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:23:16,442 775806ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:24:11,254 830619ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:24:11,285 830650ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:24:37,683 857048ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:24:37,707 857072ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:25:12,578 891943ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:25:12,605 891970ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:26:04,499 943863ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:26:04,524 943888ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:30:02,243 1181607ms ProductController      Shop               - Просмотр каталога товара
+ERROR 2020-12-14 22:30:02,270 1181634ms ProductController      Showgood           - Просмотр товара №
+ERROR 2020-12-14 22:31:56,835 1296200ms NavController          AboutUs            - Просмотр форма Про нас
+ERROR 2020-12-14 23:10:05,375   739ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:11:20,756  1828ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:28:14,573   517ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:28:26,410 12353ms NavController          AboutUs            - Просмотр форма Про нас
+ERROR 2020-12-15 00:34:12,029   634ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:42:45,502   585ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:43:15,808 30892ms NavController          Question           - Просмотр формы Вопрос технологу
+ERROR 2020-12-15 00:49:24,325   620ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:53:52,845   524ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:54:35,414   830ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:54:55,252   725ms ProductController      List               - Просмотр главной странцы
+ERROR 2020-12-15 00:55:42,040   681ms ProductController      List               - Просмотр главной странцы
